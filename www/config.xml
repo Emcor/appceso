@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
+        id        = "com.utt-megacars"
         version   = "3.7.0">
     <name>Megacars</name>
 
@@ -9,7 +9,7 @@
         Control de salidas y entradas de las unidades moviles de Megacable
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
+    <author href="https://www.facebook.com/emmanuel.cor.sa" email="chacks.rock@gmail.com">
         UTT-SmarTech Team
     </author>
 
@@ -20,7 +20,7 @@
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
 
-    <icon src="icon.png" />
+    <icon src="icono.png" />
     <icon src="res/icon/android/icono_36px.png"   gap:platform="android"    gap:density="ldpi" />
     <icon src="res/icon/android/icono_48px.png"   gap:platform="android"    gap:density="mdpi" />
     <icon src="res/icon/android/icono_72px.png"   gap:platform="android"    gap:density="hdpi" />
